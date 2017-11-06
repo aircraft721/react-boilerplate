@@ -11,7 +11,7 @@ module.exports = {
     },
     module: {
         rules: [
-            { test: /\.(js|jsx)$/, use: ['babel-loader'] },
+            { test: /\.(js|jsx|ts|tsx)$/, use: ['babel-loader'] },
         ]
     },
     plugins: [new HtmlWebpackPlugin({
