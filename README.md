@@ -3,12 +3,13 @@
 It uses: 
 #### React
 #### Redux
+#### Sass
 #### RxJS
 #### React-Router 4
 #### React-Redux
 #### Redux-Observable
-#### Sass
 #### HMR
+#### Supports Typescript
 #### Webpack Dashboard
 
 ```
