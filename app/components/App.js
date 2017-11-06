@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Hello} from './Hello.tsx';
+import Hello from './Hello.tsx';
 
 export default class App extends Component {
     render(){
