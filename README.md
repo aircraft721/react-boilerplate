@@ -8,6 +8,7 @@ It uses:
 #### React-Router 4
 #### React-Redux
 #### Redux-Observable
+#### Axios
 #### HMR
 #### Supports Typescript
 #### Webpack Dashboard
