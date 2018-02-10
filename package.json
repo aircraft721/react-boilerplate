@@ -9,7 +9,9 @@
   },
   "babel": {
     "presets": [
-      "react"
+      "env",
+      "react",
+      "stage-2"
     ]
   },
   "author": "Dan Constantinescu",
